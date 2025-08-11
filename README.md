@@ -15,13 +15,9 @@ System Hacker.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 August 2025 - To: 09 August 2025
+From: 03 August 2025 - To: 10 August 2025
 
-YAML         37 mins         █████████████████▓░░░░░░░   70.52 %
-Markdown     6 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.79 %
-Other        5 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.50 %
-HTML         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
-Git Config   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
