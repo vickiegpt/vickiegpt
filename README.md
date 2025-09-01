@@ -15,13 +15,13 @@ System Hacker.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 August 2025 - To: 30 August 2025
+From: 24 August 2025 - To: 31 August 2025
 
-Rust         3 hrs 32 mins   ███████████████████████▒░   92.75 %
-TeX          7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
-Markdown     6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+Rust         4 hrs 15 mins   ███████████████████████▒░   93.77 %
+TeX          7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
+Markdown     6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 ```
 
 <!--END_SECTION:waka-->
