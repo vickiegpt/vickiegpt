@@ -15,13 +15,9 @@ System Hacker.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 September 2025 - To: 09 September 2025
+From: 03 September 2025 - To: 10 September 2025
 
-Rust    47 mins         ██████████████░░░░░░░░░░░   55.49 %
-Other   33 mins         █████████▓░░░░░░░░░░░░░░░   38.92 %
-C++     4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.47 %
-C       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
-JSON    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
