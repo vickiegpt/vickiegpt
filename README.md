@@ -15,9 +15,13 @@ System Hacker.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 September 2025 - To: 23 September 2025
+From: 18 September 2025 - To: 25 September 2025
 
-No activity tracked
+TeX               6 mins          ██████████████▓░░░░░░░░░░   58.64 %
+BibTeX            2 mins          ██████▓░░░░░░░░░░░░░░░░░░   27.17 %
+XML               0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.79 %
+Java Properties   0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 %
+Other             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
 ```
 
 <!--END_SECTION:waka-->
