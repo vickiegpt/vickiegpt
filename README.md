@@ -15,13 +15,13 @@ System Hacker.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 October 2025 - To: 13 October 2025
+From: 07 October 2025 - To: 14 October 2025
 
-Other           2 hrs 43 mins   ████████████████▓░░░░░░░░   66.71 %
-RMarkdown       30 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.36 %
-Markdown        18 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 %
-C               18 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 %
-C++             7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
+Other           2 hrs 43 mins   ████████████████▒░░░░░░░░   65.36 %
+RMarkdown       30 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.11 %
+C               18 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.32 %
+Markdown        15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.35 %
+Python          8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
 ```
 
 <!--END_SECTION:waka-->
