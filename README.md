@@ -15,10 +15,9 @@ System Hacker.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 November 2025 - To: 19 November 2025
+From: 13 November 2025 - To: 20 November 2025
 
-Other   1 hr 59 mins    ████████████████████████▓   98.58 %
-TeX     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
+Other   1 hr 59 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
