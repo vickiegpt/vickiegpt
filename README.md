@@ -13,9 +13,13 @@ System Hacker.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 January 2026 - To: 18 January 2026
+From: 12 January 2026 - To: 19 January 2026
 
-No activity tracked
+YAML       6 mins          █████████████████░░░░░░░░   68.42 %
+Other      2 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.52 %
+TeX        0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
+Markdown   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+Python     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
 ```
 
 <!--END_SECTION:waka-->
