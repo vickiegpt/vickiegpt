@@ -13,13 +13,13 @@ System Hacker.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 January 2026 - To: 22 January 2026
+From: 16 January 2026 - To: 23 January 2026
 
-Python          1 hr 6 mins     ████████▓░░░░░░░░░░░░░░░░   34.38 %
-Markdown        41 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.34 %
-C++             27 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.49 %
-Bash            23 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.16 %
-SystemVerilog   12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.64 %
+Python           1 hr 19 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.56 %
+Rust             51 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.05 %
+Markdown         46 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.61 %
+C++              34 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.43 %
+Bash             23 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 %
 ```
 
 <!--END_SECTION:waka-->
