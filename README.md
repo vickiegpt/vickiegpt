@@ -13,11 +13,11 @@ System Hacker.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 January 2026 - To: 05 February 2026
+From: 30 January 2026 - To: 06 February 2026
 
-Other   29 mins         █████████████▒░░░░░░░░░░░   53.56 %
-C       19 mins         ████████▓░░░░░░░░░░░░░░░░   35.04 %
-Rust    6 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.40 %
+Other   39 mins         ███████████████░░░░░░░░░░   60.22 %
+C       19 mins         ███████▓░░░░░░░░░░░░░░░░░   30.01 %
+Rust    6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.77 %
 ```
 
 <!--END_SECTION:waka-->
