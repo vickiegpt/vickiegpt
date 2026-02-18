@@ -13,9 +13,13 @@ System Hacker.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 February 2026 - To: 16 February 2026
+From: 10 February 2026 - To: 17 February 2026
 
-No activity tracked
+Rust            54 mins         ███████████▓░░░░░░░░░░░░░   46.69 %
+C               39 mins         ████████▒░░░░░░░░░░░░░░░░   33.29 %
+CMake           11 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.14 %
+TOML            9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 %
+Jest Snapshot   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
 ```
 
 <!--END_SECTION:waka-->
