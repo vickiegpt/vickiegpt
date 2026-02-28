@@ -13,13 +13,12 @@ System Hacker.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 February 2026 - To: 26 February 2026
+From: 20 February 2026 - To: 27 February 2026
 
-C++             40 mins               ███████████▒░░░░░░░░░░░░░   44.77 %
-Other           25 mins               ███████░░░░░░░░░░░░░░░░░░   28.37 %
-CMake           7 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   08.73 %
-SystemVerilog   7 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 %
-SSH Key         4 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   04.87 %
+Other           20 mins               ██████████████████░░░░░░░   72.01 %
+SystemVerilog   7 mins                ██████▓░░░░░░░░░░░░░░░░░░   27.06 %
+Tcl             0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
+XML             0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
