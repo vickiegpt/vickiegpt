@@ -13,11 +13,10 @@ System Hacker.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 April 2026 - To: 08 April 2026
+From: 02 April 2026 - To: 09 April 2026
 
-TeX      54 mins               ████████████████████▒░░░░   81.37 %
-Python   11 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.19 %
-Other    0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
+Python   11 mins               ███████████████████░░░░░░   76.66 %
+TeX      3 mins                ██████░░░░░░░░░░░░░░░░░░░   23.34 %
 ```
 
 <!--END_SECTION:waka-->
