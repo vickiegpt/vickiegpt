@@ -13,13 +13,13 @@ System Hacker.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 June 2026 - To: 14 June 2026
+From: 08 June 2026 - To: 15 June 2026
 
-Rust          10 hrs 10 mins        ████████▓░░░░░░░░░░░░░░░░   34.88 %
-Other         5 hrs 9 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.69 %
-C             3 hrs 48 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.05 %
-Bash          2 hrs 24 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 %
-Python        2 hrs 24 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 %
+Rust          11 hrs 3 mins         ████████░░░░░░░░░░░░░░░░░   32.54 %
+Other         5 hrs 51 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.24 %
+C             3 hrs 14 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.57 %
+Bash          2 hrs 59 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.80 %
+Swift         2 hrs 25 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.14 %
 ```
 
 <!--END_SECTION:waka-->
