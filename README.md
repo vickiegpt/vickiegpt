@@ -13,13 +13,13 @@ System Hacker.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 June 2026 - To: 28 June 2026
+From: 22 June 2026 - To: 29 June 2026
 
-Other         6 hrs 42 mins         ████████▒░░░░░░░░░░░░░░░░   33.26 %
-C++           3 hrs 6 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.37 %
-Bash          2 hrs 26 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.12 %
-Markdown      2 hrs 26 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.10 %
-TeX           1 hr 9 mins           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.72 %
+Other         6 hrs 49 mins         ████████░░░░░░░░░░░░░░░░░   31.90 %
+C++           3 hrs 11 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.96 %
+Bash          2 hrs 35 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.13 %
+Markdown      2 hrs 1 min           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.51 %
+Diff          1 hr 19 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.19 %
 ```
 
 <!--END_SECTION:waka-->
