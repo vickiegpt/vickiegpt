@@ -13,9 +13,13 @@ System Hacker.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 August 2026 - To: 16 August 2026
+From: 10 August 2026 - To: 17 August 2026
 
-No activity tracked
+C++          14 mins               ████████████▒░░░░░░░░░░░░   49.82 %
+JSON5        5 mins                █████░░░░░░░░░░░░░░░░░░░░   19.60 %
+TypeScript   4 mins                ████▒░░░░░░░░░░░░░░░░░░░░   17.65 %
+Other        3 mins                ███▒░░░░░░░░░░░░░░░░░░░░░   12.69 %
+JavaScript   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 ```
 
 <!--END_SECTION:waka-->
