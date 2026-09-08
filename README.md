@@ -13,10 +13,13 @@ System Hacker.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 August 2026 - To: 06 September 2026
+From: 31 August 2026 - To: 07 September 2026
 
-Diff            16 mins               ███████████████░░░░░░░░░░   60.45 %
-SystemVerilog   10 mins               ██████████░░░░░░░░░░░░░░░   39.55 %
+Tcl             5 hrs 26 mins         ███████████▓░░░░░░░░░░░░░   46.50 %
+C               1 hr 44 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.90 %
+Markdown        1 hr 16 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.93 %
+JSON            1 hr 16 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.87 %
+C++             45 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.50 %
 ```
 
 <!--END_SECTION:waka-->
